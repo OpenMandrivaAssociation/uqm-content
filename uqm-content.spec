@@ -16,7 +16,6 @@ Provides:	%{base_name}-data
 Obsoletes:	%{base_name}-data
 BuildArch:	    noarch
 ExcludeArch:    x86_64 amd64
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 The Ur-Quan Masters is a port of the 3DO version of Star Control 2.

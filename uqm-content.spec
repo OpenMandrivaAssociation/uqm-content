@@ -1,7 +1,7 @@
 %define base_name	uqm
 %define name		%{base_name}-content
 %define version		0.6.0
-%define release		%mkrel 5
+%define release		%mkrel 6
 
 Name:		%{name}
 Version:	%{version}

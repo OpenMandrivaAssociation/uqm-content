@@ -3,7 +3,7 @@
 
 Name:		%{name}
 Version:	0.7.0
-Release:	1
+Release:	2
 Summary:	Mandatory content package for Ur-Quan Masters game
 License:	GPL
 Group:		Games/Strategy
